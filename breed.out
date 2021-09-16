@@ -1,0 +1,17 @@
+   Compiling breed v0.1.0 (/home/chris/projects/rust/breed)
+    Finished release [optimized] target(s) in 0.60s
+     Running `target/release/breed`
+------------------------
+show tree: t1
+Pat fid=0, fln=0, nln=0
+    Chris fid=3, fln=1, nln=1
+        Julia tid=0, tln=0, nln=2
+------------------------
+show tree: t2
+John fid=1, fln=0, nln=0
+    Anne fid=2, fln=1, nln=1
+        Peter tid=2, tln=0, nln=2
+        Helena tid=1, tln=1, nln=3
+    Stan fid=4, fln=2, nln=4
+        Mary tid=3, tln=2, nln=5
+        Eric tid=4, tln=3, nln=6

@@ -1,0 +1,6 @@
+   Compiling breed v0.1.0 (/home/chris/projects/rust/breed)
+    Finished release [optimized] target(s) in 0.60s
+     Running `/home/chris/projects/rust/breed/target/release/breed`
+Pat fnid=100, fid=0
+    Chris fnid=101, fid=3
+        Julia tid=0
